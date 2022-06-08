@@ -1,6 +1,6 @@
 ## Pokemon API
 
-API is located in the following location: https://pokedexapimatt.herokuapp.com/api/pokemoninfo
+API is located in the following location: https://pokedexapimatt.herokuapp.com/api/pokemon
 
 Your task is to build and deploy an API to create, read, update, and delete Pokemon. The API should:
 * Return a list of Pokemon in this format:
